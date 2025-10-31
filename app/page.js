@@ -89,7 +89,7 @@ export default function Home() {
           <SwiperSlide><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"></img></SwiperSlide>
           <SwiperSlide><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></img></SwiperSlide>
           <SwiperSlide><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"></img></SwiperSlide>
-          <SwiperSlide><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"></img></SwiperSlide>
+          <SwiperSlide><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></img></SwiperSlide>
           <SwiperSlide><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></img></SwiperSlide>
         </Swiper>
       </motion.div>
